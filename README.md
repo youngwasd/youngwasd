@@ -47,11 +47,11 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-contribution-graph-light.svg">
-  <img src="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-light.svg">
+  <img src="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-dark.svg" alt="GitHub contribution animation" />
+</picture>
 
 ###
