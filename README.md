@@ -49,9 +49,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-light.svg">
-  <img src="https://raw.githubusercontent.com/youngwasd/youngwasd/output/pacman-dark.svg" alt="GitHub contribution animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youngwasd/youngwasd/output/github-contribution-grid-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/youngwasd/youngwasd/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </picture>
 
 ###
