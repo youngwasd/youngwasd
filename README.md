@@ -1,7 +1,11 @@
 <h2 align="left">Hi 👋! My name is Young, and I'm a Software Engineer, from Seattle, Washington</h2>
 
 <p align="left">
-  I'm currently pursuing my Master's in Computer Science at Seattle University, with a strong passion for solving complex problems through technology. I hold a Bachelor's degree in Computer Science from the University of Washington. My journey in software engineering has allowed me to work with a variety of tools and frameworks, and I'm always looking to learn more and grow.
+  🎓 I'm currently pursuing my Master's in Computer Science at Seattle University, with a strong passion for solving complex problems through technology. I hold a Bachelor's degree in Computer Science from the University of Washington. My journey in software engineering has allowed me to work with a variety of tools and frameworks, and I'm always looking to learn more and grow.
+</p>
+
+<p align="left">
+  💬 I’m always open to collaborating on exciting projects. Whether you're working on a new idea or looking to contribute to an existing one, feel free to reach out!
 </p>
 
 ###
